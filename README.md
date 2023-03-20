@@ -1,3 +1,17 @@
+# how to start json-server
+
+got to the main directory and write following command and just hit Entar
+```
+json-server --watch db.json --port=5000
+```
+
+# how to start react app 
+
+got to the main directory and write following command and just hit Entar
+
+``` 
+    npm start
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
