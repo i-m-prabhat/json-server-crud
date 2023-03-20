@@ -63,8 +63,7 @@ const Read = () =>
                 </tbody>
             </table>
             <Link to={'/'} >
-
-                <button className='btn btn-primary'>go back to Register</button>
+                <button className='btn btn-primary'>Go back to Register</button>
             </Link>
         </>
     )
