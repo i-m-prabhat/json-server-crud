@@ -1,23 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import Create from './components/Create';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Read from './components/Read';
+import Update from './components/Update';
+import Delete from './components/Delete';
+import NotFound from './components/NotFound';
 
-function App() {
+
+function App()
+{
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container'>
+      <BrowserRouter>
+        <Routes>
+          <Route exact path='/' element={<Create />} />
+          <Route exact path='/read' element={<Read />} />
+          <Route exact path='/update/:id' element={<Update />} />
+          <Route exact path='/delete' element={<Delete />} />
+          <Route exact path='*' element={<NotFound />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
