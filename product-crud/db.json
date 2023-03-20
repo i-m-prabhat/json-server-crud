@@ -1,0 +1,88 @@
+{
+  "productData": [
+    {
+      "productName": "Cameta",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ3JdzFJl_siS9sICkBjYItjNpPUMLNM07Qd1R2-w&s",
+      "id": 1
+    },
+    {
+      "productName": "Wireless Earbuds",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 2
+    },
+    {
+      "productName": "new Brand Watches",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://burst.shopifycdn.com/photos/wrist-watches.jpg?width=1200&format=pjpg&exif=1&iptc=1",
+      "id": 3
+    },
+    {
+      "productName": "Cameta",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ3JdzFJl_siS9sICkBjYItjNpPUMLNM07Qd1R2-w&s",
+      "id": 4
+    },
+    {
+      "productName": "Wireless Earbuds",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 5
+    },
+    {
+      "productName": "new Brand Watches",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://burst.shopifycdn.com/photos/wrist-watches.jpg?width=1200&format=pjpg&exif=1&iptc=1",
+      "id": 6
+    },
+    {
+      "productName": "Cameta",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ3JdzFJl_siS9sICkBjYItjNpPUMLNM07Qd1R2-w&s",
+      "id": 7
+    },
+    {
+      "productName": "Wireless Earbuds",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 8
+    },
+    {
+      "productName": "Watches",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://burst.shopifycdn.com/photos/wrist-watches.jpg?width=1200&format=pjpg&exif=1&iptc=1",
+      "id": 9
+    },
+    {
+      "productName": "Cameta",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ3JdzFJl_siS9sICkBjYItjNpPUMLNM07Qd1R2-w&s",
+      "id": 10
+    },
+    {
+      "productName": "Wireless Earbuds",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 11
+    },
+    {
+      "productName": "Wireless Earbuds",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 14
+    },
+    {
+      "productName": "Shoes",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHN8ZW58MHx8MHx8&w=1000&q=80",
+      "id": 16
+    },
+    {
+      "productName": "mobile phone",
+      "productDec": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime possimus amet totam itaque voluptates perspiciatis, nam porro adipisci beatae et veniam laborum cupiditate cumque aliquid! Consequatur vero repellat nihil necessitatibus.",
+      "productImg": "https://images.pexels.com/photos/341523/pexels-photo-341523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 17
+    }
+  ]
+}
